@@ -1,4 +1,4 @@
-## Work in progress, please wait. Sorry for the inconvenience.🛠️
+## Work in progress. Sorry for the inconvenience.🛠️
 
 <!--
 **yashraj-007/yashraj-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
